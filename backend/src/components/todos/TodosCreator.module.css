@@ -1,0 +1,41 @@
+.Maintodo {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+
+.itinerary-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cost{
+  margin-left: 50px;
+}
+
+.day-container {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #5298a1;
+  width: 800px;
+  color: #ffffff;
+}
+
+.summary-container {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #5298a1;
+  color: #ffffff;
+  width: 800px;
+}
+
+.summary-container h2 {
+  margin-bottom: 10px;
+}
+
+
+  

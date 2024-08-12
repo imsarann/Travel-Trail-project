@@ -1,0 +1,9 @@
+pandas
+numpy
+langchain
+newspaper3k
+sentence_transformers
+faiss-cpu
+google.generativeai
+fastapi
+uvicorn
