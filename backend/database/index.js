@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-mongoose.connect("mongodb+srv://saranz:Saran%405187473@cluster0.6di5z1z.mongodb.net/travelApp", {
+mongoose.connect("mongoDB url/travelApp", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   });
